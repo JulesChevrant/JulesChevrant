@@ -4,7 +4,7 @@
 
 **:gem: I’m currently learning to improve my Ruby on rails skills.**
 
-	:information_source: More about me :
+More about me :
 
 const julesChevrant = {
   availableForHire: true,
