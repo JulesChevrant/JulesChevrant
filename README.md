@@ -4,22 +4,25 @@
 
 **:gem: I’m currently learning to improve my Ruby on rails skills.**
 
-<p>I just finished the bootcamp Le Wagon, a 9-week full-time intensive coding bootcamp.</p>
+	:information_source: More about me :
 
-<p>Before that, I was a SEO consultant for 2 years and a half, within the SEO agency La Revanche des Sites.</p>
+const julesChevrant = {
+  availableForHire: true,
+  education: "Le Wagon Paris, a 9-week full-time intensive coding bootcamp",
+  otherAlias: "Junior Full Stack Developer",
+  codesIn: ["HTML", "CSS", "Ruby"],
+  currentlylearning: ["Ruby on Rails", "JavaScript ES6", SQL],
+  toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Wordpress"],
+  pastExperience: [
+    {
+      company : "La Revanche des Sites",
+      post : "SEO Consultant",
+      duration : "2 years and a half"
+    },
+  ],
+}
 
 
-<h3 align="left">Languages and Tools I am currently working with :</h3>
-- Ruby on Rails<
-- HTML
-- CSS
-- Bootstrap
-- JavaScript ES6
-- SQL
-- git & GitHub
-- Heroku</p>
-
-
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me:</h3>
 📫 How to reach me : https://www.linkedin.com/in/jules-chevrant-breton/
 :hash: Follow me on Twitter : @JulesChevrant
