@@ -8,6 +8,7 @@ I just finished the bootcamp Le Wagon, a 9-week full-time intensive coding bootc
 
 Before that, I was a SEO consultant for 2 years and a half, within the SEO agency La Revanche des Sites.
 
+
 <h3 align="left">Languages and Tools I am currently working with :</h3>
 - Ruby on Rails
 - HTML
@@ -17,6 +18,7 @@ Before that, I was a SEO consultant for 2 years and a half, within the SEO agenc
 - SQL
 - git & GitHub
 - Heroku
+
 
 <h3 align="left">Connect with me:</h3>
 📫 How to reach me : https://www.linkedin.com/in/jules-chevrant-breton/
