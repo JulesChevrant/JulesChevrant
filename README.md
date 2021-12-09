@@ -7,7 +7,7 @@ I am reading the book: "Ruby on Rails Tutorial" by Michael Hartl.
 
 More about me :
 
-```
+```javascript
 const julesChevrant = {
   availableForHire: true,
   education: "Le Wagon Paris, a 9-week full-time intensive coding bootcamp",
