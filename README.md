@@ -3,9 +3,11 @@
 <p>I am a junior FullStack Web Developper, living in Paris.</p>
 
 **:gem: I’m currently learning to improve my Ruby on rails skills.**
+I am reading the book: "Ruby on Rails Tutorial" by Michael Hartl.
 
 More about me :
 
+```
 const julesChevrant = {
   availableForHire: true,
   education: "Le Wagon Paris, a 9-week full-time intensive coding bootcamp",
@@ -21,7 +23,7 @@ const julesChevrant = {
     },
   ],
 }
-
+```
 
 <h3>Connect with me:</h3>
 📫 How to reach me : https://www.linkedin.com/in/jules-chevrant-breton/
