@@ -1,6 +1,6 @@
 ### Hi, I'm Jules 👋
 
-<p>I am a junior FullStack Web Developper, living in Paris.</p>
+<p>I am a junior Full Stack Web Developper, living in Paris.</p>
 
 - 🌱 **I’m currently reading the book: "Ruby on Rails Tutorial" by Michael Hartl, to improve my Ryby on Rails skills.**
 
@@ -29,7 +29,6 @@ const julesChevrant = {
 ```
 
 <h3>Connect with me:</h3>
-📫 How to reach me : https://www.linkedin.com/in/jules-chevrant-breton/
 <p align="left">
 <a href="https://twitter.com/juleschevrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juleschevrant" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jules chevrant-breton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jules chevrant-breton" height="30" width="40" /></a>
