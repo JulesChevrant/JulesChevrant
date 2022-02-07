@@ -2,7 +2,7 @@
 
 <p>I am a junior Full Stack Web Developer, living in Paris, France.</p>
 
-- 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails and JavaScript.
+- 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.
 - 📚 I'm reading the book: "Ruby on Rails Tutorial" by Michael Hartl.
 
 <p>My bootcamp projects :</p>
